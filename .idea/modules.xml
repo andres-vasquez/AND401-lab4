@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AND401-lab4.iml" filepath="$PROJECT_DIR$/AND401-lab4.iml" group="AND401-lab4" />
+      <module fileurl="file://$PROJECT_DIR$/app/AND401-lab4-app.iml" filepath="$PROJECT_DIR$/app/AND401-lab4-app.iml" group="AND401-lab4/app" />
       <module fileurl="file://$PROJECT_DIR$/Lab4Intents.iml" filepath="$PROJECT_DIR$/Lab4Intents.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
